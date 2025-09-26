@@ -36,3 +36,5 @@ docker build -t strapi-app .
 
 Run the container:
 docker run -p 1337:1337 strapi-app
+
+
