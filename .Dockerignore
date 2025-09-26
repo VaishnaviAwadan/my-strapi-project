@@ -1,0 +1,17 @@
+# Ignore node modules and log files
+node_modules
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Ignore OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode
+*.swp
+
+# Ignore build directories
+build
+dist
+.cache
+.tmp
