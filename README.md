@@ -24,6 +24,7 @@ description (Rich Text)
 
 published (Boolean)
 
-6.Added sample entries in Content Manager.
+6.Added sample entries in Cont
 
 7.Pushed setup to GitHub.
+
