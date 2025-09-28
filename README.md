@@ -27,14 +27,3 @@ published (Boolean)
 6.Added sample entries in Content Manager.
 
 7.Pushed setup to GitHub.
-
-
-# Task 2
-
-Build the image:
-docker build -t strapi-app .
-
-Run the container:
-docker run -p 1337:1337 strapi-app
-
-
