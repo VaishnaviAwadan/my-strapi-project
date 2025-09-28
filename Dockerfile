@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 1337
 
 # Start Strapi in development mode
-CMD ["yarn", "develop"]
+CMD ["yarn", "develop", "start"]
